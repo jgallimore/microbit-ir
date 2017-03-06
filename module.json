@@ -1,0 +1,12 @@
+{
+  "name": "microbit-ir",
+  "version": "0.0.1",
+  "bin": "./source",
+  "private": true,
+  "description": "Tinkering with IR",
+  "author": "Jonathan Gallimore",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "^2.0.0-rc8"
+  }
+}
