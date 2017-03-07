@@ -1,0 +1,1 @@
+Simple program to receive IR input on the Microbit. Uses the IR library here: https://developer.mbed.org/users/shintamainjp/code/RemoteIR/
